@@ -8,7 +8,7 @@ Its purpose is to signal short messages to someone near by you, if you do not ha
 
 ## License
 
-harbour-banner – Display Banner Text on the Cover or Full Screen of your Sailfish OS Device
+harbour-banner – Display Banner Text on the Cover or Full Screen of your Sailfish OS Device  
 Copyright (C) 2018 Robert Bienert
 
 This program is free software: you can redistribute it and/or modify
